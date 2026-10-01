@@ -1,0 +1,4 @@
+enum WeatherSource {
+  online,
+  offline,
+}
